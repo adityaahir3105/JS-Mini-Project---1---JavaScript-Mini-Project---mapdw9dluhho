@@ -1,18 +1,18 @@
 # Sudoku-JS
 
-Sudoku-JS allows you to solve a Sudoku Puzzle online.
+Sudoku-JS allows you to solve a Sudoku puzzle online.
 
 ## To use Sudoku:
 
 * Click on "New Game" to load a new puzzle.
-* Set Diificulty Easy,Normal or Hard.
+* Set Difficulty: Easy, Normal or Hard.
 
 ## Features:
 
-* Diificulty level Easy,Normal and Hard.Base on level Empty cell Incerese or Decrease. 
+* There are three difficulty levels: easy, normal, and difficult. Level-based empty cell, increase or decrease.
 
 * Reset the puzzle to start over if you have made a mistake.
 
-* Shows Validation based on user input if it's correct value for particular cell.User can also check validation by pressing button available on GUI.
+* It shows validation based on user input if it's the correct value for a particular cell. The user can also check validation by pressing the button available on the GUI.
 
-* User can visualize all the equal value cells on board by selecting particular cell.
+* A user can visualise all the equal value cells on the board by selecting a particular cell.
